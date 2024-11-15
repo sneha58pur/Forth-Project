@@ -1,0 +1,50 @@
+<resources>
+
+
+        <string name="app_name">Assignment4</string>
+        <string name="title">Title</string>
+        <string name="subtitle">Subtitle</string>
+        <string-array name="tech_array">
+            <item>Dress</item>
+            <item>Ring</item>
+            <item>Jewellery</item>
+            <item>Coat</item>
+            <item>Earring</item>
+        </string-array>
+        <color name="fire_brick_200">#EF6C00</color>
+        <color name="air_superiority_blue_200">#6E7C7C</color>
+
+
+    <string-array name="destinations_array">
+        <item>Dress</item>
+        <item>Ring</item>
+        <item>Jewellery</item>
+    </string-array>
+
+    <string-array name="dress_array">
+        <item>It is so comfortable to wear</item>
+        <item>It is nice</item>
+        <item>It is so stylish</item>
+    </string-array>
+
+    <string-array name="ring_array">
+
+
+        <item>It is so elegant</item>
+        <item>It is good</item>
+        <item>It is so new</item>
+
+    </string-array>
+
+    <string-array name="jewellery_array">
+        <item>It is so good</item>
+        <item>It is beautiful</item>
+        <item>It is so stylish</item>
+    </string-array>
+
+
+
+    <string name="group_item">Group Item</string>
+    <string name="child_item">Child Item</string>
+    <string name="enter">Enter</string>
+</resources>
